@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Interaction"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "core-2-interaction"
+	}
+}
